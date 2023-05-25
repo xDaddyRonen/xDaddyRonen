@@ -1,7 +1,7 @@
 ### Hello there! 👋
 
-• 🔗 Minecraft Server Developer
+ • 🔗 Minecraft Server Developer
 
-• 🌱 My current project: ---
+ • 🌱 My current project: ---
 
-👾 Discord: xDaddyRonen#4355
+ 👾 Discord: xDaddyRonen#4355
