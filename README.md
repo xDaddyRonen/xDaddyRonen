@@ -3,4 +3,4 @@
 - 🔗 Minecraft Server Developer
 * 🌱 My current project: ---
 
- 👾 Discord: **xDaddyRonen#4355**
+ 👾 Discord: xDaddyRonen#4355
