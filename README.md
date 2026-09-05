@@ -2,7 +2,7 @@
 
 - 🔗 Minecraft Server Developer
 * 🌱 My current project:
-   * minedestiny.hu
+   * minezone.hu
 
  👾 Discord: **xdaddyronen**
  
